@@ -10,8 +10,7 @@ Instructions on how to flash the bootloader can be found on [UsedBytes Blogpost]
 Originally the bootloader was written to be used with UsedBytes [GoLang application](https://github.com/usedbytes/serial-flash), 
 but since we would prefer to use Python on our deployment systems, the GoLang app has been re-written in Python.
 
-The UART cable used for testing is a [FTDI TTL-232R-3V3](https://docs.rs-online.com/588e/0900766b80d4cba6.pdf).<br>
-The 
+The UART cable used for testing is a [FTDI TTL-232R-3V3](https://docs.rs-online.com/588e/0900766b80d4cba6.pdf).
 
 ### Installation
 1. Clone or download this repository.
